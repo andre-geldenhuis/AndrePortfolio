@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Andre rezbaztest
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Andre 
+last_name: RezBazTest
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: RSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
